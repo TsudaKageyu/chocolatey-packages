@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>vmware-workstation-player</id>
+    <version>12.1.1</version>
+
+    <title>VMware Workstation 12 Player</title>
+    <authors>VMware, Inc.</authors>
+    <projectUrl>http://www.vmware.com/products/workstation.html</projectUrl>
+    <tags>virtualization vmware desktop admin</tags>
+    <summary>VMware Workstation Player is a desktop virtualization application that is available for free for personal use. </summary>
+    <description>VMware Workstation Player (formerly known as Player Pro) is a desktop virtualization application that is available for free for personal use. A Commercial License can be applied to enable Workstation Player to run Restricted Virtual Machines created by VMware Workstation Pro and Fusion Pro.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
