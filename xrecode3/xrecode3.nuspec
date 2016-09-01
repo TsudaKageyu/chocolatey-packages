@@ -6,7 +6,7 @@
     <title>XRECODE3 (Install)</title>
     <authors>xrecode</authors>
     <projectUrl>http://xrecode.com/xrecode3/</projectUrl>
-    <!-- <iconUrl>https://raw.githubusercontent.com/TsudaKageyu/chocolatey-vmware-workstation-player/master/vmware-workstation-player.png</iconUrl> -->
+    <iconUrl>https://raw.githubusercontent.com/TsudaKageyu/chocolatey-packages/master/xrecode3/xrecode3.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <licenseUrl>http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</licenseUrl>
     <packageSourceUrl>https://github.com/TsudaKageyu/chocolatey-packages</packageSourceUrl>

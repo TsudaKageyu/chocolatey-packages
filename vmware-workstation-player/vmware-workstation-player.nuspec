@@ -3,7 +3,7 @@
   <metadata>
     <id>vmware-workstation-player</id>
     <version>12.1.1</version>
-    <iconUrl>https://raw.githubusercontent.com/TsudaKageyu/chocolatey-vmware-workstation-player/master/vmware-workstation-player.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/TsudaKageyu/chocolatey-packages/master/vmware-workstation-player/vmware-workstation-player.png</iconUrl>
     <title>VMware Workstation 12 Player</title>
     <authors>VMware, Inc.</authors>
     <projectUrl>https://www.vmware.com/products/workstation.html</projectUrl>
