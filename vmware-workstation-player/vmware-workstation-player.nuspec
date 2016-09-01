@@ -7,6 +7,7 @@
     <title>VMware Workstation 12 Player</title>
     <authors>VMware, Inc.</authors>
     <projectUrl>https://www.vmware.com/products/workstation.html</projectUrl>
+    <packageSourceUrl>https://github.com/TsudaKageyu/chocolatey-packages<packageSourceUrl>
     <tags>virtualization vmware desktop admin</tags>
     <summary>VMware Workstation Player is a desktop virtualization application that is available for free for personal use. </summary>
     <description>VMware Workstation Player (formerly known as Player Pro) is a desktop virtualization application that is available for free for personal use. A Commercial License can be applied to enable Workstation Player to run Restricted Virtual Machines created by VMware Workstation Pro and Fusion Pro.</description>
