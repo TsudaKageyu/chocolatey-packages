@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>xrecode3.portable</id>
+    <version>1.35</version>
+    <title>XRECODE3 (Portable)</title>
+    <authors>xrecode</authors>
+    <projectUrl>http://xrecode.com/xrecode3/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/TsudaKageyu/chocolatey-packages/master/xrecode3/xrecode3.png</iconUrl>
+    <!-- <copyright>Year Software Vendor</copyright> -->
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</licenseUrl>
+    <packageSourceUrl>https://github.com/TsudaKageyu/chocolatey-packages</packageSourceUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>xrecode3 transcoder encoder conversion</tags>
+    <summary>XRECODE3 is audio converter, which supports most of the common audio formats, such as mp3, wav, flac, dsd, etc.</summary>
+    <description>XRECODE3 is audio converter, which supports most of the common audio formats, such as mp3, wav, flac, dsd, etc. It also supports extracting audio file from most video files as well as Audio-CD grabbing. Command Line parameters are supported.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
