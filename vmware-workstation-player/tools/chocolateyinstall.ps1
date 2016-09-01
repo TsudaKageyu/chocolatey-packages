@@ -3,7 +3,7 @@
 $packageArgs = @{
   packageName    = 'vmware-workstation-player'
   fileType       = 'EXE'
-  url64bit       = 'http://www.vmware.com/go/tryplayerpro-win-64'
+  url64bit       = 'https://download3.vmware.com/software/player/file/VMware-player-12.1.1-3770994.exe'
   softwareName   = 'vmware-workstation-player*'
   checksum64     = 'D63E0D2B95E1BA23AFD1A9D04137B0FF8EA58CFC'
   checksumType64 = 'sha1'
