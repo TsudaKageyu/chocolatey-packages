@@ -9,7 +9,7 @@ $file = (Get-ItemProperty -Path "hklm:\SOFTWARE\Microsoft\Windows\CurrentVersion
 $file = $file -Replace '"', ''
 
 $packageArgs = @{
-  packageName    = 'xrecode3'
+  packageName    = 'xrecode3.install'
   fileType       = 'EXE'
   silentArgs     = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
   file           = $file
