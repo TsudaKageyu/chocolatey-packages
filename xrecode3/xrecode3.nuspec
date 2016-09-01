@@ -8,7 +8,6 @@
     <projectUrl>http://xrecode.com/xrecode3/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/TsudaKageyu/chocolatey-packages/master/xrecode3/xrecode3.png</iconUrl>
     <packageSourceUrl>https://github.com/TsudaKageyu/chocolatey-packages</packageSourceUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>xrecode3 transcoder encoder conversion</tags>
     <summary>XRECODE3 is audio converter, which supports most of the common audio formats, such as mp3, wav, flac, dsd, etc.</summary>
     <description>XRECODE3 is audio converter, which supports most of the common audio formats, such as mp3, wav, flac, dsd, etc. It also supports extracting audio file from most video files as well as Audio-CD grabbing. Command Line parameters are supported.</description>
