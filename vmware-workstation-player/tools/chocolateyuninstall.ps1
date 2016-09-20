@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$registryKey = '{537B7F85-2B95-44ED-8D90-765F6F36D666}'
+$registryKey = '{BC00AC33-2B00-443D-8FC2-3656D94AEA0A}'
 $msiDir = (Get-ItemProperty -Path "hklm:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$registryKey").InstallSource
 
 $packageArgs = @{
@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType       = 'MSI'
   silentArgs     = "`"$msiDir$registryKey.msi`" /quiet"   # MSI file name is here to get around choco's bug.
   file           = ''                                     # This will be ignored.
-  validExitCodes = @(0, 3010)
+  validExitCodes= @(0, 3010, 1641)
 }
 
 Uninstall-ChocolateyPackage @packageArgs
