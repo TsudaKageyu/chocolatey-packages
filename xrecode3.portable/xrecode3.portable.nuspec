@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>xrecode3.portable</id>
-    <version>1.36</version>
+    <version>1.38</version>
     <title>XRECODE3 (Portable)</title>
     <authors>xrecode</authors>
     <projectUrl>http://xrecode.com/xrecode3/</projectUrl>
