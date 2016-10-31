@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$registryKey = '{BC00AC33-2B00-443D-8FC2-3656D94AEA0A}'
+$registryKey = '{646FD2AF-74E5-462C-82EE-1860DD252BF6}'
 $msiDir = (Get-ItemProperty -Path "hklm:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$registryKey").InstallSource
 
 $packageArgs = @{
