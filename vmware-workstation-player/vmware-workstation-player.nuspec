@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>vmware-workstation-player</id>
-    <version>12.5.1</version>
+    <version>12.5.2</version>
     <iconUrl>https://raw.githubusercontent.com/TsudaKageyu/chocolatey-packages/master/vmware-workstation-player/vmware-workstation-player.png</iconUrl>
     <title>VMware Workstation 12 Player</title>
     <authors>VMware, Inc.</authors>
