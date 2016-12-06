@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>xrecode3</id>
-    <version>1.41</version>
+    <version>1.44</version>
     <title>XRECODE3</title>
     <authors>xrecode</authors>
     <projectUrl>http://xrecode.com/xrecode3/</projectUrl>
@@ -12,7 +12,7 @@
     <summary>XRECODE3 is audio converter, which supports most of the common audio formats, such as mp3, wav, flac, dsd, etc.</summary>
     <description>XRECODE3 is audio converter, which supports most of the common audio formats, such as mp3, wav, flac, dsd, etc. It also supports extracting audio file from most video files as well as Audio-CD grabbing. Command Line parameters are supported.</description>
       <dependencies>
-        <dependency id="xrecode3.install" version="[1.41]" />
+        <dependency id="xrecode3.install" version="[1.44]" />
       </dependencies>
   </metadata>
 </package>
