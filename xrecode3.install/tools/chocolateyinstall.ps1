@@ -3,12 +3,12 @@
 $packageArgs = @{
   packageName    = 'xrecode3.install'
   fileType       = 'EXE'
-  url            = 'http://xrecode.com/xrecode3/download/setup_xrecode3_win_32bit_1.44.exe'
-  url64bit       = 'http://xrecode.com/xrecode3/download/setup_xrecode3_win_64bit_1.44.exe'
+  url            = 'http://xrecode.com/xrecode3/download/setup_xrecode3_win_32bit_1.54.exe'
+  url64bit       = 'http://xrecode.com/xrecode3/download/setup_xrecode3_win_64bit_1.54.exe'
   softwareName   = 'xrecode3.install*'
-  checksum       = 'B3CCAC65BEC36FF3183E5866F41E117D479C432011B1919237D3F851AD3CF8DF'
+  checksum       = '583CF9D42B21B765B26896103487EC6E8E2A434ED33DD5AB94DD9D8A929FA10C'
   checksumType   = 'sha256'
-  checksum64     = 'CC6C667864DD5963E7C0E74B013398A9EADD08B8EE6FC143707D6C2815036634'
+  checksum64     = '769AE9858F4C422C28EBA1E9CA604AF3ADA79E029389E045DC09651512CE432B'
   checksumType64 = 'sha256'
   silentArgs     = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
   validExitCodes = @(0)
