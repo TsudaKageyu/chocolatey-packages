@@ -3,9 +3,9 @@
 $packageArgs = @{
   packageName    = 'vmware-workstation-player'
   fileType       = 'EXE'
-  url64bit       = 'https://download3.vmware.com/software/player/file/VMware-player-12.5.2-4638234.exe'
+  url64bit       = 'https://download3.vmware.com/software/player/file/VMware-player-12.5.4-5192485.exe'
   softwareName   = 'vmware-workstation-player*'
-  checksum64     = '6F1109D3A20CA73C8EF74A229401CF5633618827FCB819DC82556A12BA34AE80'
+  checksum64     = '957D4444ED8ABAC892BB52B453FE5A418F513FE58B5CFE120146CCC5634B4B1B'
   checksumType64 = 'sha256'
   silentArgs     = '/s /v"/qn" EULAS_AGREED=1'
   validExitCodes= @(0, 3010, 1641)
